@@ -1,3 +1,12 @@
+Download
+
+git clone https://github.com/kyzlaitis/casino-1.git
+
+
+Nabigate
+
+cd casino-1
+
 
 Build: 
 
